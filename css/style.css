@@ -8,6 +8,8 @@
 @import url("components/cards.css");
 @import url("components/map.css");
 @import url("components/newsletter.css");
+@import url("components/navbar.css");
+@import url("components/typeform.css");
 
 /* --- Basic styles for fonts & colors --- */
 body {
